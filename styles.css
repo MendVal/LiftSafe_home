@@ -153,9 +153,9 @@ nav {
     justify-content: center;
     position: relative;
     overflow: hidden;
-    margin-top: 80px;
-    background-attachment: fixed; 
+    margin-top: 100px;
 }
+
 
 .hero::before {
     content: '';
